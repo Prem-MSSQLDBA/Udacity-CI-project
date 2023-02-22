@@ -62,4 +62,6 @@ workflows:
     jobs:
       - say-hello
       - hello
+      - build
       
+ 
